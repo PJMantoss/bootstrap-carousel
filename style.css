@@ -3,38 +3,19 @@
     padding: 0;
 }
 
+html,
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     width: 100vw;
+    background: black;
 }
 
+/**/
 #carouselDiv {
     position: relative;
     width: 60%;
     height: 60%;
 }
-
-
-
-/*.carousel-inner .item > img {
-    width: 80%;
-    height: 80%;
-    margin: auto;
-    
-}
-.item > img {
-    width: 100%;
-    height: 100%;
-    margin: auto;
-}
-
-.carousel-inner .item {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-*/
