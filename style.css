@@ -13,8 +13,10 @@ body {
 }
 
 #carouselDiv {
-    width: 60%;
-    height: 100%;
+    position: relative;
+    width: 70%;
+    height: 70%;
+    overflow: hidden;
 }
 
 /*.carousel-inner .item > img {
