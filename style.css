@@ -11,3 +11,14 @@ body {
     width: 100vw;
     margin: auto;
 }
+
+#carouselDiv {
+    width: 60%;
+    height: 100%;
+}
+
+/*.carousel-inner .item > img {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}*/
